@@ -4,6 +4,8 @@ Projeto acadêmico desenvolvido para aprendizado de Python, interface gráfica e
 
 O sistema permite cadastrar produtos, registrar movimentações de entrada e saída, acompanhar o histórico das movimentações e gerenciar usuários do sistema.
 
+Video de apresentação: https://www.linkedin.com/posts/%C3%A1gata-santos-628b8935a_python-programaaexaeto-desenvolvimentodesoftware-activity-7439059031035613184-Iibi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFmE7EABUKiP6kx_EaoHd56PscMBNW3hYIY
+
 🎯 Objetivo do Projeto
 
 O objetivo deste projeto é aplicar conceitos de programação em Python, desenvolvimento de interface gráfica e integração com banco de dados para criar um sistema simples de controle de estoque.
